@@ -27,7 +27,7 @@ const Index = () => {
               <div className="w-9 h-9 rounded-xl bg-primary flex items-center justify-center">
                 <Leaf className="w-5 h-5 text-primary-foreground" />
               </div>
-              <span className="text-xl font-display text-foreground">GiveGood</span>
+              <span className="text-xl font-display text-foreground">KindKart</span>
             </Link>
             <div className="flex items-center gap-3">
               <Link to="/auth">
@@ -322,7 +322,7 @@ const Index = () => {
               Ready to make a difference?
             </h2>
             <p className="text-muted-foreground text-lg mb-8">
-              Join thousands of donors, NGOs, and restaurants already using GiveGood to reduce waste and feed communities.
+              Join thousands of donors, NGOs, and restaurants already using KindKart to reduce waste and feed communities.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Link to="/auth?mode=signup">
@@ -344,10 +344,10 @@ const Index = () => {
               <div className="w-8 h-8 rounded-lg bg-primary flex items-center justify-center">
                 <Leaf className="w-4 h-4 text-primary-foreground" />
               </div>
-              <span className="text-lg font-display text-foreground">GiveGood</span>
+              <span className="text-lg font-display text-foreground">KindKart</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2025 GiveGood. Making kindness simple, one donation at a time.
+              © 2025 KindKart. Making kindness simple, one donation at a time.
             </p>
           </div>
         </div>

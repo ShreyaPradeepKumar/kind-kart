@@ -91,7 +91,7 @@ const Auth = () => {
               <Leaf className="w-10 h-10 text-primary-foreground" />
             </div>
             <h2 className="text-4xl font-display text-foreground mb-4">
-              {mode === "login" ? "Welcome back" : "Join GiveGood"}
+              {mode === "login" ? "Welcome back" : "Join KindKart"}
             </h2>
             <p className="text-muted-foreground text-lg">
               {mode === "login" 
